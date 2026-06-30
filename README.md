@@ -112,5 +112,3 @@ GenFlow Mark 2 is currently under development. Due to the complexity of the RShi
 - A far more efficient data output format. 
 
 
-##### Genome Settings
-
