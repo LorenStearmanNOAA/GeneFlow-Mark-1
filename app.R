@@ -34,7 +34,7 @@
 
 		# tabPanel(title = "Introduction",
 		# # Adds the main title
-		# 	tags$h1("Sexy Fishes: Gene Flow Simulations in Complex Riverine Systems"),
+		# 	tags$h1("Gene Flow Simulations in Complex Riverine Systems"),
 
 		# # Adds a horizontal bar
 		# 	tags$hr(),
